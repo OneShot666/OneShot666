@@ -49,6 +49,18 @@ Here you can see my projects and plans for the futur.
 - Responds quickly to emails : regularly checking my emails
 
 ***
+### My programmation languages
+
+<!-- Use images instead : ![name](link) -->
+Python, HTML, PHP, CSS, JS, Java, SQL
+
+***
+### My programmation languages
+
+<!-- Sort by interest + use logo instead : ![name](link) -->
+Docker, Git, Git Bash, Xampp, Arduino, Pycharm, Intellij, Wireshark, Atom, GitHub Desktop, Xmind, LibreOffice, Tiled, Discord, VSC
+
+***
 ### My certifications
 
 - OpenClassrooms
