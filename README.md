@@ -1,4 +1,4 @@
-## Welcome to my porfolio
+# Welcome to my porfolio
 
 I'm a student in computer science degree in France.
 As it's my dream since I'm a child, I aspire to become a video game developer.
@@ -6,11 +6,11 @@ As it's my dream since I'm a child, I aspire to become a video game developer.
 This readme is my GitHub portfolio.
 Here you can see my projects and plans for the futur.
 
-## My status
+### My status
 💻 I'm currently working in RPS Simulator...
 
 ***
-## My repositories
+### My repositories
 
 - RockPaperScissors Simulator : A simulation where you can make entities 'rock', 'paper' and 'scissors' confront each other.
 
@@ -27,7 +27,7 @@ Here you can see my projects and plans for the futur.
 - DataGenerator : A program that create and handle a databse.
 
 ***
-## My futur projects
+### My futur projects
 
 - Project Algieba : An exploration game with pixel art where you discover a planet with diverse ecosystem and alien political conflict.
 
@@ -36,7 +36,7 @@ Here you can see my projects and plans for the futur.
 - Forgotten Circuit : You play a cyborg with no memory in an abandoned based with strange creatures.
 
 ***
-## My soft skills
+### My soft skills
 
 - Regularly updates my porfolio : update it when I get a new professional experience or certification.
 - Proactive tech curiosity : constantly explores tools, projects, and asking deep questions.
@@ -49,7 +49,7 @@ Here you can see my projects and plans for the futur.
 - Responds quickly to emails : regularly checking my emails
 
 ***
-## My certifications
+### My certifications
 
 - OpenClassrooms
 - PIX
@@ -58,7 +58,7 @@ Here you can see my projects and plans for the futur.
 - W3School
 
 ***
-## My languages
+### My languages
 
 - French - native language
 - English - B2
