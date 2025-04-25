@@ -79,13 +79,14 @@ Docker, Git, Git Bash, Xampp, Arduino, Pycharm, Intellij, Wireshark, Atom, GitHu
 ***
 ### My contact
 
-My site : https://nathanm.btsinfo.nc/
+[My site](https://nathanm.btsinfo.nc/)
 
 Email : mir.nathan666@gmail.com
 
 My Discord : One Shot #oneshot9475
 
 <!-- Add later
+Add icons on title + images for logo
 Use GitHub Actions + YAML to make readme dynamic !
 Add simple games ?
 Add HTML ?
