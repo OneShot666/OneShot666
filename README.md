@@ -80,7 +80,9 @@ Docker, Git, Git Bash, Xampp, Arduino, Pycharm, Intellij, Wireshark, Atom, GitHu
 ### My contact
 
 My site : https://nathanm.btsinfo.nc/
+
 Email : mir.nathan666@gmail.com
+
 My Discord : One Shot #oneshot9475
 
 <!-- Add later
