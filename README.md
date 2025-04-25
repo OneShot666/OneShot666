@@ -51,13 +51,18 @@ Here you can see my projects and plans for the futur.
 ***
 ### My programmation languages
 
-<!-- Use images instead : ![name](link) -->
-Python, HTML, PHP, CSS, JS, Java, SQL
+https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png
+https://www.citypng.com/public/uploads/preview/html5-logo-icon-3d-hd-png-701751694706448mhzoib8wwh.png
+https://icon2.cleanpng.com/20180608/rbo/kisspng-cascading-style-sheets-css3-logo-5b1a6a5c5dfbb2.855009901528457820385.jpg
+https://w7.pngwing.com/pngs/210/24/png-transparent-php-logo-programmer-computer-software-it-sticker-miscellaneous-sticker-web-application-thumbnail.png
+https://icon2.cleanpng.com/20190129/jba/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.webp
+https://i.pinimg.com/564x/67/ed/2a/67ed2ac947b9dfcf283521309a304050.jpg
+https://e7.pngegg.com/pngimages/167/148/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png
 
 ***
 ### My programmation languages
 
-<!-- Sort by interest + use logo instead : ![name](link) -->
+<!-- Sort by interest + use logo instead -->
 Docker, Git, Git Bash, Xampp, Arduino, Pycharm, Intellij, Wireshark, Atom, GitHub Desktop, Xmind, LibreOffice, Tiled, Discord, VSC
 
 ***
@@ -79,9 +84,9 @@ Docker, Git, Git Bash, Xampp, Arduino, Pycharm, Intellij, Wireshark, Atom, GitHu
 ***
 ### My contact
 
-[My site](https://nathanm.btsinfo.nc/)
+My site : https://nathanm.btsinfo.nc/
 
-Email : mir.nathan666@gmail.com
+My email : mir.nathan666@gmail.com
 
 My Discord : One Shot #oneshot9475
 
