@@ -76,11 +76,14 @@ Docker, Git, Git Bash, Xampp, Arduino, Pycharm, Intellij, Wireshark, Atom, GitHu
 - English - B2
 - Japanese - notions
 
-<!-- Add later
-❓ I’m looking for help with ...
-💬 Ask me about ...
-☎️ How to reach me: ...
+***
+### My contact
 
+My site : https://nathanm.btsinfo.nc/
+Email : mir.nathan666@gmail.com
+My Discord : One Shot #oneshot9475
+
+<!-- Add later
 Use GitHub Actions + YAML to make readme dynamic !
 Add simple games ?
 Add HTML ?
