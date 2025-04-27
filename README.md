@@ -65,20 +65,20 @@ Here you can see my projects and plans for the futur.
 ### My programmation tools
 
 <div style="display:flex; justify-content:center; gap:20px;">
-	<a href="https://www.jetbrains.com/fr-fr/pycharm/"><img src="https://img.favpng.com/3/25/22/pycharm-integrated-development-environment-jetbrains-intellij-idea-python-png-favpng-GEw5Gdt5Rc6sZhQUu01BteZTS_t.jpg" alt="Pycharm" width="50"/></a>
-	<a href="https://www.jetbrains.com/fr-fr/idea/"><img src="https://e7.pngegg.com/pngimages/392/422/png-clipart-intellij-idea-integrated-development-environment-computer-software-pycharm-jetbrains-java-plum-miscellaneous-text.png" alt="Intellij" width="50"/></a>
-	<a href="https://code.visualstudio.com/"><img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VSC" width="50"/></a>
-	<a href="https://atom-editor.cc/"><img src="https://e7.pngegg.com/pngimages/192/401/png-clipart-atom-text-editor-scalable-graphics-atom-logo-atom.png" alt="Atom" width="50"/></a>
-	<a href="https://github.com/apps/desktop"><img src="https://p1.hiclipart.com/preview/452/590/433/clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon-png-clipart-thumbnail.jpg" alt="GitHub Desktop" width="50"/></a>
-	<a href="https://git-scm.com/downloads"><img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo.png" alt="Git Bash" width="50"/></a>
-	<a href="https://www.apachefriends.org/fr/index.html"><img src="https://w7.pngwing.com/pngs/952/732/png-transparent-xampp-full-logo-tech-companies-thumbnail.png" alt="Xampp" width="50"/></a>
+	<a href="https://www.jetbrains.com/fr-fr/pycharm/"><img src="https://static-00.iconduck.com/assets.00/pycharm-icon-512x512-wd58qkwx.png" alt="Pycharm" width="50"/></a>
+	<a href="https://www.jetbrains.com/fr-fr/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="Intellij" width="50"/></a>
+	<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VSC" width="50"/></a>
+	<a href="https://atom-editor.cc/"><img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="Atom" width="50"/></a>
+	<a href="https://github.com/apps/desktop"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub Desktop" width="50"/></a>
+	<a href="https://git-scm.com/downloads"><img src="https://img.icons8.com/color/512/git.png" alt="Git Bash" width="50"/></a>
+	<a href="https://www.apachefriends.org/fr/index.html"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-512x506-o2hpws0t.png" alt="Xampp" width="50"/></a>
 	<a href="https://www.mapeditor.org/download.html"><img src="https://dl.flathub.org/media/org/mapeditor/Tiled.desktop/83a53625d534ba9b15b9d84a84abaa72/icons/128x128/org.mapeditor.Tiled.desktop.png" alt="Tiled" width="50"/></a>
 	<a href="https://www.docker.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" alt="Docker" width="50"/></a>
 	<a href="https://www.arduino.cc/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" alt="Arduino" width="50"/></a>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Wireshark" width="50"/></a>
 	<a href="https://xmind.app/fr/"><img src="https://i0.wp.com/outils-visuels.fr/wp-content/uploads/2021/09/b715ab45-f55d-4dfa-ac61-5c1ab0f9ce7b.png.webp?fit=384%2C384&ssl=1" alt="Xmind" width="50"/></a>
 	<a href="https://fr.libreoffice.org/download/telecharger-libreoffice/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LibreOffice_7.5_Main_Icon.svg/2048px-LibreOffice_7.5_Main_Icon.svg.png" alt="LibreOffice" width="50"/></a>
-	<a href="https://discord.com/download"><img src="https://icon2.cleanpng.com/20181110/izk/kisspng-discord-social-media-portable-network-graphics-cli-1713924104892.webp" alt="Discord" width="50"/></a>
+	<a href="https://discord.com/download"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" width="50"/></a>
 <div/>
 
 ***
