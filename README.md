@@ -6,7 +6,8 @@ As it's my dream since I'm a child, I aspire to become a video game developer.
 This readme is my GitHub portfolio.
 Here you can see my projects and plans for the futur.
 
-### :brain: My status
+<!-- Status: dart, brain, sparkles, hourglass_flowing_sand -->
+### :dart: My status
 I'm currently working in RPS Simulator...
 
 ***
@@ -107,8 +108,6 @@ My email : mir.nathan666@gmail.com
 My Discord : One Shot #oneshot9475
 
 <!-- Add later
-Add emoji for titles + images for logo
 Use GitHub Actions + YAML to make readme dynamic !
 Add simple games ?
-Add HTML ?
 -->
