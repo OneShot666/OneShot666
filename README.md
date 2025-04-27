@@ -6,11 +6,11 @@ As it's my dream since I'm a child, I aspire to become a video game developer.
 This readme is my GitHub portfolio.
 Here you can see my projects and plans for the futur.
 
-### My status
-💻 I'm currently working in RPS Simulator...
+### :brain: My status
+I'm currently working in RPS Simulator...
 
 ***
-### My repositories
+### :open_file_folder: My repositories
 
 - RockPaperScissors Simulator : A simulation where you can make entities 'rock', 'paper' and 'scissors' confront each other.
 
@@ -27,7 +27,7 @@ Here you can see my projects and plans for the futur.
 - DataGenerator : A program that create and handle a databse.
 
 ***
-### My futur projects
+### :rocket: My futur projects
 
 - Project Algieba : An exploration game with pixel art where you discover a planet with diverse ecosystem and alien political conflict.
 
@@ -36,7 +36,7 @@ Here you can see my projects and plans for the futur.
 - Forgotten Circuit : You play a cyborg with no memory in an abandoned based with strange creatures.
 
 ***
-### My soft skills
+### :handshake: My soft skills
 
 - Regularly updates my porfolio : update it when I get a new professional experience or certification.
 - Proactive tech curiosity : constantly explores tools, projects, and asking deep questions.
@@ -49,7 +49,7 @@ Here you can see my projects and plans for the futur.
 - Responds quickly to emails : regularly checking my emails
 
 ***
-### My programmation languages
+### :computer: My programmation languages
 
 <div style="display:flex; justify-content:center; gap:20px;">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width="50"/>
@@ -62,7 +62,7 @@ Here you can see my projects and plans for the futur.
 <div/>
 
 ***
-### My programmation tools
+### :hammer_and_wrench: My programmation tools
 
 <div style="display:flex; justify-content:center; gap:20px;">
 	<a href="https://www.jetbrains.com/fr-fr/pycharm/"><img src="https://static-00.iconduck.com/assets.00/pycharm-icon-512x512-wd58qkwx.png" alt="Pycharm" width="50"/></a>
@@ -82,7 +82,7 @@ Here you can see my projects and plans for the futur.
 <div/>
 
 ***
-### My certifications
+### :scroll: My certifications
 
 - OpenClassrooms
 - PIX
@@ -91,14 +91,14 @@ Here you can see my projects and plans for the futur.
 - W3School
 
 ***
-### My languages
+### :earth_africa: My languages
 
 - French - native language
 - English - B2
 - Japanese - notions
 
 ***
-### My contact
+### :incoming_envelope: My contact
 
 My site : https://nathanm.btsinfo.nc/
 
