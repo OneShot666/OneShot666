@@ -51,19 +51,35 @@ Here you can see my projects and plans for the futur.
 ***
 ### My programmation languages
 
-https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png
-https://www.citypng.com/public/uploads/preview/html5-logo-icon-3d-hd-png-701751694706448mhzoib8wwh.png
-https://icon2.cleanpng.com/20180608/rbo/kisspng-cascading-style-sheets-css3-logo-5b1a6a5c5dfbb2.855009901528457820385.jpg
-https://w7.pngwing.com/pngs/210/24/png-transparent-php-logo-programmer-computer-software-it-sticker-miscellaneous-sticker-web-application-thumbnail.png
-https://icon2.cleanpng.com/20190129/jba/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.webp
-https://i.pinimg.com/564x/67/ed/2a/67ed2ac947b9dfcf283521309a304050.jpg
-https://e7.pngegg.com/pngimages/167/148/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png
+<div style="display:flex; justify-content:center; gap:20px;">
+	<img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="50"/>
+	<img src="https://www.citypng.com/public/uploads/preview/html5-logo-icon-3d-hd-png-701751694706448mhzoib8wwh.png" width="50"/>
+	<img src="https://icon2.cleanpng.com/20180608/rbo/kisspng-cascading-style-sheets-css3-logo-5b1a6a5c5dfbb2.855009901528457820385.jpg" width="50"/>
+	<img src="https://w7.pngwing.com/pngs/210/24/png-transparent-php-logo-programmer-computer-software-it-sticker-miscellaneous-sticker-web-application-thumbnail.png" width="50"/>
+	<img src="https://icon2.cleanpng.com/20190129/jba/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.webp" width="50"/>
+	<img src="https://i.pinimg.com/564x/67/ed/2a/67ed2ac947b9dfcf283521309a304050.jpg" width="50"/>
+	<img src="https://e7.pngegg.com/pngimages/167/148/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png" width="50"/>
+<div/>
 
 ***
-### My programmation languages
+### My programmation tools
 
-<!-- Sort by interest + use logo instead -->
-Docker, Git, Git Bash, Xampp, Arduino, Pycharm, Intellij, Wireshark, Atom, GitHub Desktop, Xmind, LibreOffice, Tiled, Discord, VSC
+<div style="display:flex; justify-content:center; gap:20px;">
+	<a href=""><img src="" alt="Pycharm" width="50"/></a>
+	<a href=""><img src="" alt="Intellij" width="50"/></a>
+	<a href=""><img src="" alt="VSC" width="50"/></a>
+	<a href=""><img src="" alt="Atom" width="50"/></a>
+	<a href=""><img src="" alt="GitHub Desktop" width="50"/></a>
+	<a href=""><img src="" alt="Git Bash" width="50"/></a>
+	<a href=""><img src="" alt="Xampp" width="50"/></a>
+	<a href=""><img src="" alt="Tiled" width="50"/></a>
+	<a href=""><img src="" alt="Docker" width="50"/></a>
+	<a href=""><img src="" alt="Arduino" width="50"/></a>
+	<a href=""><img src="" alt="Wireshark" width="50"/></a>
+	<a href=""><img src="" alt="Xmind" width="50"/></a>
+	<a href=""><img src="" alt="LibreOffice" width="50"/></a>
+	<a href=""><img src="" alt="Discord" width="50"/></a>
+<div/>
 
 ***
 ### My certifications
@@ -91,7 +107,7 @@ My email : mir.nathan666@gmail.com
 My Discord : One Shot #oneshot9475
 
 <!-- Add later
-Add icons on title + images for logo
+Add emoji for titles + images for logo
 Use GitHub Actions + YAML to make readme dynamic !
 Add simple games ?
 Add HTML ?
