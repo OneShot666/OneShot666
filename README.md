@@ -72,13 +72,13 @@ Here you can see my projects and plans for the futur.
 	<a href="https://github.com/apps/desktop"><img src="https://p1.hiclipart.com/preview/452/590/433/clay-os-6-a-macos-icon-github-desktop-white-cat-on-purple-background-icon-png-clipart-thumbnail.jpg" alt="GitHub Desktop" width="50"/></a>
 	<a href="https://git-scm.com/downloads"><img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo.png" alt="Git Bash" width="50"/></a>
 	<a href="https://www.apachefriends.org/fr/index.html"><img src="https://w7.pngwing.com/pngs/952/732/png-transparent-xampp-full-logo-tech-companies-thumbnail.png" alt="Xampp" width="50"/></a>
-	<a href="https://www.mapeditor.org/download.html"><img src="https://static.macupdate.com/products/62323/l/tiled-logo.png?v=1663570260" alt="Tiled" width="50"/></a>
+	<a href="https://www.mapeditor.org/download.html"><img src="https://dl.flathub.org/media/org/mapeditor/Tiled.desktop/83a53625d534ba9b15b9d84a84abaa72/icons/128x128/org.mapeditor.Tiled.desktop.png" alt="Tiled" width="50"/></a>
 	<a href="https://www.docker.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" alt="Docker" width="50"/></a>
 	<a href="https://www.arduino.cc/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" alt="Arduino" width="50"/></a>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Wireshark" width="50"/></a>
 	<a href="https://xmind.app/fr/"><img src="https://i0.wp.com/outils-visuels.fr/wp-content/uploads/2021/09/b715ab45-f55d-4dfa-ac61-5c1ab0f9ce7b.png.webp?fit=384%2C384&ssl=1" alt="Xmind" width="50"/></a>
 	<a href="https://fr.libreoffice.org/download/telecharger-libreoffice/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LibreOffice_7.5_Main_Icon.svg/2048px-LibreOffice_7.5_Main_Icon.svg.png" alt="LibreOffice" width="50"/></a>
-	<a href="https://discord.com/download"><img src="https://pngimg.com/d/discord_PNG12.png" alt="Discord" width="50"/></a>
+	<a href="https://discord.com/download"><img src="https://icon2.cleanpng.com/20181110/izk/kisspng-discord-social-media-portable-network-graphics-cli-1713924104892.webp" alt="Discord" width="50"/></a>
 <div/>
 
 ***
