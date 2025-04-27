@@ -52,13 +52,13 @@ Here you can see my projects and plans for the futur.
 ### My programmation languages
 
 <div style="display:flex; justify-content:center; gap:20px;">
-	<img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="50"/>
-	<img src="https://www.citypng.com/public/uploads/preview/html5-logo-icon-3d-hd-png-701751694706448mhzoib8wwh.png" width="50"/>
-	<img src="https://icon2.cleanpng.com/20180608/rbo/kisspng-cascading-style-sheets-css3-logo-5b1a6a5c5dfbb2.855009901528457820385.jpg" width="50"/>
-	<img src="https://w7.pngwing.com/pngs/210/24/png-transparent-php-logo-programmer-computer-software-it-sticker-miscellaneous-sticker-web-application-thumbnail.png" width="50"/>
-	<img src="https://icon2.cleanpng.com/20190129/jba/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.webp" width="50"/>
-	<img src="https://i.pinimg.com/564x/67/ed/2a/67ed2ac947b9dfcf283521309a304050.jpg" width="50"/>
-	<img src="https://e7.pngegg.com/pngimages/167/148/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png" width="50"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width="50"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="70"/>
+	<img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" width="50"/>
+	<img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="65"/>
+	<img src="https://www.pngkey.com/png/full/360-3603565_php-logo-png-logo-php.png" width="60"/>
+	<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80"/>
 <div/>
 
 ***
