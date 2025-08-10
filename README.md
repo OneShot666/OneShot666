@@ -66,13 +66,13 @@ I'm currently working in the Executioner, a program that transform my previous p
 ### :hammer_and_wrench: My programmation tools
 
 <div style="display:flex; justify-content:center; gap:20px;">
-	<a href="https://www.jetbrains.com/fr-fr/pycharm/"><img src="https://static-00.iconduck.com/assets.00/pycharm-icon-512x512-wd58qkwx.png" alt="Pycharm" width="50"/></a>
+	<a href="https://www.jetbrains.com/fr-fr/pycharm/"><img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F1dc1a1e1-5f9f-4ed8-a8d4-288c7f5cc53c&w=256&q=75" alt="Pycharm" width="50"/></a>
 	<a href="https://www.jetbrains.com/fr-fr/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="Intellij" width="50"/></a>
 	<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VSC" width="50"/></a>
 	<a href="https://atom-editor.cc/"><img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="Atom" width="50"/></a>
 	<a href="https://github.com/apps/desktop"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub Desktop" width="50"/></a>
 	<a href="https://git-scm.com/downloads"><img src="https://img.icons8.com/color/512/git.png" alt="Git Bash" width="50"/></a>
-	<a href="https://www.apachefriends.org/fr/index.html"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-512x506-o2hpws0t.png" alt="Xampp" width="50"/></a>
+	<a href="https://www.apachefriends.org/fr/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="Xampp" width="50"/></a>
 	<a href="https://www.mapeditor.org/download.html"><img src="https://dl.flathub.org/media/org/mapeditor/Tiled.desktop/83a53625d534ba9b15b9d84a84abaa72/icons/128x128/org.mapeditor.Tiled.desktop.png" alt="Tiled" width="50"/></a>
 	<a href="https://www.docker.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" alt="Docker" width="50"/></a>
 	<a href="https://www.arduino.cc/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" alt="Arduino" width="50"/></a>
