@@ -8,7 +8,7 @@ Here you can see my projects and plans for the futur.
 
 <!-- Status: dart, brain, sparkles, hourglass_flowing_sand -->
 ### :dart: My status
-I'm currently working in RPS Simulator...
+I'm currently working in the Executioner, a program that transform my previous project into exectuable... [Coming soon]
 
 ***
 ### :open_file_folder: My repositories
@@ -25,7 +25,7 @@ I'm currently working in RPS Simulator...
 
 - Garage : A car presentation website with dabatase, accounts and administrating rights.
 
-- DataGenerator : A program that create and handle a databse.
+- DataGenerator : A program that create and handle a database.
 
 ***
 ### :rocket: My futur projects
