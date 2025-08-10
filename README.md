@@ -109,6 +109,7 @@ My Discord : One Shot #oneshot9475
 
 <!-- Add later
 Use GitHub Actions + YAML to make readme dynamic !
+https://talks.freelancerepublik.com/comment-se-creer-un-portfolio-avec-le-readme-github/
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 Add simple games ?
 -->
