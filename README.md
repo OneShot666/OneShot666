@@ -109,5 +109,6 @@ My Discord : One Shot #oneshot9475
 
 <!-- Add later
 Use GitHub Actions + YAML to make readme dynamic !
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 Add simple games ?
 -->
