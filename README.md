@@ -32,11 +32,11 @@ I'm currently working in the Executioner, a program that transform my previous p
 ***
 ### :rocket: My futur projects
 
-- Project Algieba : An exploration game with pixel art where you discover a planet with diverse ecosystem and alien political conflict.
+- Teegarden Project : An exploration game with pixel art where you discover a planet with diverse ecosystem and alien political conflict.
 
 - GraphicalDance : An idle game based on geometrical form and merging circles.
 
-- Forgotten Circuit : You play a cyborg with no memory in an abandoned based with strange creatures.
+- Fragmented Memory - Forgotten Circuit : You play a cyborg with no memory in an abandoned based with strange creatures.
 
 ***
 ### :handshake: My soft skills
