@@ -6,6 +6,8 @@ As it's my dream since I'm a child, I aspire to become a video game developer.
 This readme is my GitHub portfolio.
 Here you can see my projects and plans for the futur.
 
+More on my [website](https://oneshot666.github.io/index.html) !
+
 <!-- Status: dart, brain, sparkles, hourglass_flowing_sand -->
 ### :dart: My status
 I'm currently working in the Executioner, a program that transform my previous project into exectuable... [Coming soon]
